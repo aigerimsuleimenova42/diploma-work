@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ip_address">IP Address:</string>
+    <string name="e_g_192_168_4_1">e.g. 192.168.4.1</string>
+    <string name="port_number">Port Number:</string>
+    <string name="e_g_80">e.g. 80</string>
+    <string name="value_of_slider">Value of slider</string>
+    <string name="connect_pin_13">Validate url</string>
+    <string name="value_of_pin_13">Value of Pin 13</string>
+</resources>
